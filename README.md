@@ -1,7 +1,5 @@
 ## Oi 😸 Eu sou a Edilaine 
 
-📝Estudo Python e quero ser programadora 
-
 <div>
   <a href="https://github.com/Edilaine-Araujo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edilaine-Araujo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
